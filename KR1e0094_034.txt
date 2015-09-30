@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 欽定春秋傳說彙纂
-#+DATE: 2015-09-23 09:40:29
-#+PROPERTY: JUAN 34
+#+DATE: 2015-08-24 22:16:40.196224
+#+PROPERTY: ID KR1e0094
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十二
 <pb:KR1e0094_WYG_034-1a>¶
 　欽定四庫全書¶
 欽定春秋傳說彚纂卷三十二¶
@@ -668,4 +670,3 @@
 　　　(名水卷杜注卷城在南陽葉縣南後漢志葉有卷/城  經注河水東南流建城東建當作卷即葉縣)¶
 　　　(之卷城也今河南南陽府葉/縣西南有建城故城即其地)¶
 欽定春秋𫝊説彚纂卷三十二¶
-

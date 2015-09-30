@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 欽定春秋傳說彙纂
-#+DATE: 2015-09-23 09:40:29
-#+PROPERTY: JUAN 25
+#+DATE: 2015-08-24 22:16:39.955051
+#+PROPERTY: ID KR1e0094
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十三
 <pb:KR1e0094_WYG_025-1a>¶
 　欽定四庫全書¶
 欽定春秋傳說彚纂卷二十三¶
@@ -686,4 +688,3 @@
 　　集說(李氏廉曰公羊經無此三字何氏以爲去冬者/惡成公前旣怨懟不免牲今又如晉過郊乃反)¶
 　　(無事天之意當絶之/其說迂謬不可取)¶
 欽定春秋傳說彚纂卷二十三¶
-

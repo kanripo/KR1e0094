@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 欽定春秋傳說彙纂
-#+DATE: 2015-09-23 09:40:29
-#+PROPERTY: JUAN 12
+#+DATE: 2015-08-24 22:16:39.584270
+#+PROPERTY: ID KR1e0094
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十
 <pb:KR1e0094_WYG_012-1a>¶
 　欽定四庫全書¶
 欽定春秋傳説彚纂卷十¶
@@ -1100,4 +1102,3 @@
 　¶
 　¶
 欽定春秋傳說彚纂卷十¶
-
